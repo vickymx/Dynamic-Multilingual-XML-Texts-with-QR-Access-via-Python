@@ -15,7 +15,6 @@ This project presents a multilingual collection of short functional texts (e.g. 
 
 ## 📁 Repository Structure
 thesis-functional-texts/
-│
 ├── data/ # XML files with multilingual texts
 │ ├── bg/ # Bulgarian texts
 │ ├── en/ # English texts
@@ -27,7 +26,7 @@ thesis-functional-texts/
 ├── qr/ # Generated QR codes (PNG)
 │ ├── bg/
 │ ├── en/
-│ └── fr/
+│ └── ...
 │
 ├── scripts/ # Python scripts
 │ ├── generate_qr.py # Generates QR codes from XML texts
@@ -39,7 +38,7 @@ thesis-functional-texts/
 │ └── references.bib # (If using LaTeX)
 │
 ├── docs/ # Usage guides and documentation
-│ └── usage.md # How to use the system
+│ └── usage.md
 │
 ├── requirements.txt # Python dependencies
 ├── .gitignore # Git ignore rules
