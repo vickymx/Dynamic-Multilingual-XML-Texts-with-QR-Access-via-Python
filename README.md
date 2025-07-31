@@ -1,4 +1,4 @@
-# Dynamic-Multilingual-XML-Texts-with-QR-Access-via-Python
+# Dynamic Multilingual XML Texts with QR Access via Python
 
 ## 📚 Master's Thesis Project
 
