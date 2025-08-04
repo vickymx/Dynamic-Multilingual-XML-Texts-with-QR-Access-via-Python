@@ -50,3 +50,50 @@
         </s>
     </text>
 </texts>
+<texts>
+    
+    <!-- Пример: Инструкция за съхранение -->
+
+    <!-- Български -->
+    <text id="storage_instruction_1" lang="bg" type="инструкция">
+        <s id="s1">
+            <w lemma="съхранявам" pos="V" morph="imp,2pl">Съхранявайте</w>
+            <w lemma="този" pos="DET" morph="sg,m">този</w>
+            <w lemma="лекарство" pos="N" morph="sg,n">лекарствен продукт</w>
+            <w lemma="на" pos="PREP" morph="">на</w>
+            <w lemma="място" pos="N" morph="sg,n">място</w>
+            <w lemma="недостъпен" pos="ADJ" morph="sg,n">недостъпно</w>
+            <w lemma="за" pos="PREP" morph="">за</w>
+            <w lemma="деца" pos="N" morph="pl">деца</w>
+        </s>
+    </text>
+
+    <!-- Английски -->
+    <text id="storage_instruction_1" lang="en" type="instruction">
+        <s id="s1">
+            <w lemma="keep" pos="VERB" morph="IMP">Keep</w>
+            <w lemma="this" pos="DET" morph="">this</w>
+            <w lemma="medicine" pos="NOUN" morph="SG">medicine</w>
+            <w lemma="out" pos="PREP" morph="">out</w>
+            <w lemma="of" pos="PREP" morph="">of</w>
+            <w lemma="reach" pos="NOUN" morph="SG">reach</w>
+            <w lemma="of" pos="PREP" morph="">of</w>
+            <w lemma="children" pos="NOUN" morph="PL">children</w>
+        </s>
+    </text>
+
+    <!-- Френски -->
+    <text id="storage_instruction_1" lang="fr" type="instruction">
+        <s id="s1">
+            <w lemma="garder" pos="VERB" morph="IMP,2P">Gardez</w>
+            <w lemma="ce" pos="DET" morph="SG,M">ce</w>
+            <w lemma="médicament" pos="NOUN" morph="SG,M">médicament</w>
+            <w lemma="hors" pos="PREP" morph="">hors</w>
+            <w lemma="de" pos="PREP" morph="">de</w>
+            <w lemma="portée" pos="NOUN" morph="SG,F">portée</w>
+            <w lemma="des" pos="DET" morph="PL">des</w>
+            <w lemma="enfant" pos="NOUN" morph="PL">enfants</w>
+        </s>
+    </text>
+</texts>
+
